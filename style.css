@@ -1,0 +1,11 @@
+body{
+    background-color: red;
+    color:white;
+}
+.heading{
+    width: 80%;
+    font-size: 22px;
+}
+.name_of_the_objects{
+    font-size: 20px;
+}
